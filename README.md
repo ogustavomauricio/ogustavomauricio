@@ -34,4 +34,4 @@
 
 ##
 
-![Snake animation]()
+![Snake animation](![Snake animation](https://github.com/ogustavomauricio/ogustavomauricio/blob/output/github-contribution-grid-snake.svg))
