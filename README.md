@@ -1,5 +1,9 @@
 ### Olá, eu me chamo Gustavo Mauricio 👋
 
+Desenvolvedor de Software com foco em tecnologias como: React, Typescript, NextJs, Javascript, HTML, CSS/SASS/SCSS e Bootstrap. 
+
+No backend, possuo conhecimento em banco de dados relacionais e não-relacionais, NodeJs e Express. Me aprofundando em testes unitários, RTL, Jest e Cypress. Conhecimento em metodologias ágeis como Scrum/Kanban.
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/o-gustavo-mauricio/)](https://www.linkedin.com/in/o-gustavo-mauricio/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gmauricio207@gmail.com)](mailto:gmauricio207@gmail.com) &nbsp;
 
 ##
